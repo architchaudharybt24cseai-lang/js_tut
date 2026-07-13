@@ -1,7 +1,6 @@
 {
   "name": "Node.js",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
-
   "customizations": {
     "vscode": {
       "extensions": [
@@ -16,6 +15,4 @@
       }
     }
   }
-
-  // "remoteUser": "root"
 }
