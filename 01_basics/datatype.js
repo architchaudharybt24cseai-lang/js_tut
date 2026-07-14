@@ -60,3 +60,10 @@ console.log(null>=0)
 
 
 console.log("2"===1)
+
+//function in JS , a reference datatype like objects and arrays
+
+const myfunc= function()
+{
+  console.log("i am enjoying chai aur code")
+}
