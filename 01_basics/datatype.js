@@ -37,3 +37,26 @@ console.log(typeof newnum)
 let changednn=String(newnum)
 console.log(changednn)
 console.log(typeof changednn)
+
+let x=23;
+let str="hello"
+let str2=" archit"
+console.log(str+str2)
+
+console.log(x+str2)
+console.log("1"+"2"+378)
+
+
+console.log(1+2+54+"seee")
+console.log("seee"+1+2+54)
+
+console.log("abc02">1)
+
+
+console.log(null>0)
+console.log(null==0)
+
+console.log(null>=0)
+
+
+console.log("2"===1)
