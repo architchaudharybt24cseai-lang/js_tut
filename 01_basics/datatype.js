@@ -67,3 +67,5 @@ const myfunc= function()
 {
   console.log("i am enjoying chai aur code")
 }
+
+myfunc();
