@@ -69,3 +69,23 @@ const myfunc= function()
 }
 
 myfunc();
+
+console.log(`my name is ${"archit"}, oh I didn't know this.`);
+
+const samplestr = new String('archit is on JS')
+console.log(samplestr);
+
+console.log(samplestr.__proto__);
+console.log(samplestr.length);
+console.log(samplestr.toUpperCase())
+
+
+const thisstr=new String('https://legendary-space-waffle-jjv5p4qvgp4q2jjgx.github.dev/');
+
+console.log(thisstr.replace('legendary','L'))
+console.log(thisstr.includes('http'));
+console.log(thisstr. split('-'));
+
+
+
+
