@@ -66,3 +66,20 @@ function returnSecondValue(getArray) {
 
 // console.log(returnSecondValue(myNewArray));
 console.log(returnSecondValue([200, 400, 500, 1000]));
+
+
+//SCOPE
+var c=200
+if(true)
+{
+  c=20
+  console.log("inner val: ", c)
+}
+console.log(c);
+//console.log(funcadd2(10)); // errror here
+
+const funcadd2 = function(num) {
+    return num + 2;
+};
+
+console.log(funcadd2(10));// here this is known as hoisting , position of declaration and definition 
