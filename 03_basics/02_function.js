@@ -30,7 +30,7 @@ newfun()
 //explicit return ismei returnkeyword likha
 // const summ=(num1,num2)=> {
     // return num1+num2
-}
+//}
 
 //console.log(summ(4,5));
 
@@ -46,3 +46,6 @@ console.log(aisehi());
 
 
 console.log(summ(4,5));
+
+
+
